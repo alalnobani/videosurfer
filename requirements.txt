@@ -1,0 +1,15 @@
+opencv-python==4.1.2.30
+clarifai
+moviepy
+google-cloud-speech
+google-cloud-videointelligence
+requests==2.11.1
+pyrebase
+flask
+pytube
+pytube3
+ebaysdk
+bs4
+fuzzywuzzy
+imutils
+flask-cors
